@@ -1,8 +1,8 @@
 # MachineLearning
 Machine Learning
 
--Introduction Machine learning
--Model Training and Improvement
--TREE AND ENSEMBLE METHODS
--SUPPORT VECTOR MACHINES
--CLUSTERING
+1. Introduction Machine learning
+2. Model Training and Improvement
+3. TREE AND ENSEMBLE METHODS
+4. SUPPORT VECTOR MACHINES
+5. CLUSTERING
