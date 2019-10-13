@@ -1,5 +1,6 @@
 # MachineLearning
-Machine Learning (Yordan Darakchiev)
+Machine Learning (Sept.2019) (Yordan Darakchiev)
+
 SoftUni Sofia BG (https://softuni.bg/)
 
 1. Introduction Machine learning
