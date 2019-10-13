@@ -1,5 +1,6 @@
 # MachineLearning
-Machine Learning
+Machine Learning (Yordan Darakchiev)
+SoftUni Sofia BG (https://softuni.bg/)
 
 1. Introduction Machine learning
 2. Model Training and Improvement
